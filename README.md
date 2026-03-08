@@ -8,7 +8,7 @@ Welcome to my professional portfolio. This repository documents hands-on labs an
 A controlled penetration test demonstrating the exploitation of a known backdoor in a legacy FTP service to gain root-level access.
 * **Tools:** Metasploit, Nmap, Kali Linux, VirtualBox.
 * **Key Skills:** Vulnerability Research (CVE-2011-2523), Penetration Testing, Remediation Strategy.
-* **[View Project Details](./project-1)**
+* **[View Project Details](./Project-1)**
 
 ### 🔍 Project 2: Digital Forensics – Enron Email Investigation
 An in-depth forensic analysis of the Kenneth Lay email corpus using Autopsy to identify artifacts of executive misconduct and internal corporate sentiment.
@@ -29,5 +29,5 @@ An in-depth forensic analysis of the Kenneth Lay email corpus using Autopsy to i
 | **Systems & Data** | Linux Administration, Python (Security Scripting), SQL |
 
 ## 📫 Connect with Me
-* **LinkedIn:** [https://www.linkedin.com/in/paul-florio-933bb9353/]
-* **Email:** [paul.florio.29@gmail.com]
+* **LinkedIn:** https://www.linkedin.com/in/paul-florio-933bb9353/
+* **Email:** paul.florio.29@gmail.com
