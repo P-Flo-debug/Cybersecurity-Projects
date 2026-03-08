@@ -8,13 +8,13 @@ Welcome to my professional portfolio. This repository documents hands-on labs an
 A controlled penetration test demonstrating the exploitation of a known backdoor in a legacy FTP service to gain root-level access.
 * **Tools:** Metasploit, Nmap, Kali Linux, VirtualBox.
 * **Key Skills:** Vulnerability Research (CVE-2011-2523), Penetration Testing, Remediation Strategy.
-* **[View Project Details](./project-1.md)**
+* **[View Project Details](./project-01.md)**
 
 ### 🔍 Project 2: Digital Forensics – Enron Email Investigation
 An in-depth forensic analysis of the Kenneth Lay email corpus using Autopsy to identify artifacts of executive misconduct and internal corporate sentiment.
 * **Tools:** Autopsy 4.22.1
 * **Key Skills:** Digital Forensics, Keyword Indexing, Metadata Analysis, Timeline Reconstruction.
-* **[View Project Details](./project-2)**
+* **[View Project Details](./project-02)**
 
 ---
 
