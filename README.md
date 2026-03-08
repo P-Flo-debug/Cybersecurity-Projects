@@ -1,4 +1,4 @@
-# Penetration-Testing-Lab
+# Cybersecurity-Projects
 Welcome to my cybersecurity portfolio. This repository contains detailed reports from penetration tests and security projects conducted in my virtual lab.
 
 ## Projects
